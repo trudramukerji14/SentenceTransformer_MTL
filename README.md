@@ -19,7 +19,7 @@ Here we implement the sentence transformer DistilBERT a lightweight version of B
 
 Many NLP tasks share underyling language understanding for various tasks. By implementing and training a model on different tasks, allows the model to share parameters and benefit from a potentially richer understanding.
 
-The demo is also available to run on colab.
+The demo is also available to run on colab, one can access it by simply clicking on the "open in colab" button above.
 
 
 
