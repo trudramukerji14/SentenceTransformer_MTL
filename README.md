@@ -23,10 +23,18 @@ Many NLP tasks share underyling language understanding for various tasks. By imp
 
 **Summary**
 
-In this project, we build a multi-task model for the tasks of detecting food keywords and sentiment analysis and write a function to train it on [yelp review](https://huggingface.co/datasets/Yelp/yelp_review_full) dataset available in HuggingFace.
+In this project, we build a multi-task model for the tasks of detecting food keywords and sentiment analysis and write a function to train it on [yelp review](https://huggingface.co/datasets/Yelp/yelp_review_full) dataset available in HuggingFace. 
+
+Namely, in this project we execute four tasks:
+
+Task 1: Implement a Sentence Transformer and run it on some sample sentences.
+Task 2: Writing the class for the multitask model.
+Task 3: Discuss various training considerations and freezing various parameters.
+Task 4: Implement a training function for the model.
 
 **Repository Structure**
-A .ipynb file and .py file for this project is contained in the notebook subfolder.
+
+A .ipynb file for this project is contained in the notebook subfolder. Much of the writing and technical description is contained within this file. 
 
 
 
