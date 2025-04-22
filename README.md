@@ -27,10 +27,10 @@ In this project, we build a multi-task model for the tasks of detecting food key
 
 Namely, in this project we execute four tasks:
 
-Task 1: Implement a Sentence Transformer and run it on some sample sentences.
-Task 2: Writing the class for the multitask model.
-Task 3: Discuss various training considerations and freezing various parameters.
-Task 4: Implement a training function for the model.
+-Task 1: Implement a Sentence Transformer and run it on some sample sentences.
+-Task 2: Writing the class for the multitask model.
+-Task 3: Discuss various training considerations and freezing various parameters.
+-Task 4: Implement a training function for the model.
 
 **Repository Structure**
 
