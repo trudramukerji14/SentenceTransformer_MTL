@@ -19,7 +19,16 @@ Here we implement the sentence transformer DistilBERT a lightweight version of B
 
 Many NLP tasks share underyling language understanding for various tasks. By implementing and training a model on different tasks, allows the model to share parameters and benefit from a potentially richer understanding.
 
-The demo is also available to run on colab, one can access it by simply clicking on the "open in colab" button above.
+(Recommended): The notebook is available to run on colab, one can access it by simply clicking on the "Open in Colab" button above.
+
+**Summary**
+
+In this project, we build a multi-task model for the tasks of detecting food keywords and sentiment analysis and write a function to train it on [yelp review](https://huggingface.co/datasets/Yelp/yelp_review_full) dataset available in HuggingFace.
+
+**Repository Structure**
+A .ipynb file and .py file for this project is contained in the notebook subfolder.
+
+
 
 
 
