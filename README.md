@@ -40,7 +40,7 @@ First, create a conda environment:
 conda create my_env python=3.9 
 conda activate my_env
 ```
-Then, install the requiremnts:
+Then, install the requirements:
 ```
 pip3 install -U pip
 pip3 install -r requirements.txt
