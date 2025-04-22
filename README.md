@@ -27,15 +27,34 @@ In this project, we build a multi-task model for the tasks of detecting food key
 
 Namely, in this project we execute four tasks:
 
--Task 1: Implement a Sentence Transformer and run it on some sample sentences.
--Task 2: Writing the class for the multitask model.
--Task 3: Discuss various training considerations and freezing various parameters.
--Task 4: Implement a training function for the model.
+- **Task 1**: Implement a Sentence Transformer and run it on some sample sentences.
+- **Task 2**: Write the class for the multitask model.
+- **Task 3**: Discuss various training considerations and freezing various parameters.
+- **Task 4**: Implement a training function for the model.
 
-**Repository Structure**
+## Usage
 
-A .ipynb file for this project is contained in the notebook subfolder. Much of the writing and technical description is contained within this file. 
+#### Environment Preparation
+First, create a conda environment:
+```
+conda create my_env python=3.9 
+conda activate my_env
+```
+Then, install the requiremnts:
+```
+pip3 install -U pip
+pip3 install -r requirements.txt
+```
 
+## How to Run Demo Locally
+One can run the .py file in the 
+```
+python sentencetransformer_multitask.py 
+```
+
+## Repository Structure
+
+The notebooks folder contains the .ipynb file and the .py file (where the markdown and tensorboard is converted to comments)
 
 
 
