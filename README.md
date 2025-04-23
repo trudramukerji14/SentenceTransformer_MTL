@@ -8,7 +8,7 @@ Here we implement the sentence transformer DistilBERT a lightweight version of B
   <em>High-level schematic diagram of BERT (taken from Wikipedia).</em>
 </p>
 <p align="center">
-    <a href='https://huggingface.co/papers/1910.01108'><img src='https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Checkpoint-blue'></a>
+    <a href='https://huggingface.co/papers/1910.01108'><img src= 'https://huggingface.co/datasets/huggingface/badges/resolve/main/model-on-hf-sm.svg'></a>
     <a target="_blank" href="https://colab.research.google.com/drive/1E-Pi_kbkLe6qtk4q_fn0UYsie93BWJPF?usp=sharing">
         <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
     </a>
