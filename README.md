@@ -47,7 +47,7 @@ pip3 install -r requirements.txt
 ```
 
 ## How to Run Demo Locally
-One can run the .py file in the notebook subfolder as follows. 
+One can run the .py file in the notebook subfolder as follows. This is not recommended since the current .py file is a conversion of the the previous .ipynb
 ```
 python sentencetransformer_multitask.py 
 ```
