@@ -47,7 +47,9 @@ pip3 install -r requirements.txt
 ```
 
 ## How to Run Demo Locally
-One can run the .py file in the notebook subfolder as follows. This is not recommended since the current .py file is a conversion of the the previous .ipynb
+One can run the SentenceTransformer_MLT.ipynb file located in the notebooks subdirectory using jupyter notebooks.
+
+One can run the sentencetransformer_multitask.py file in the notebook subfolder as follows (This is not recommended since the current .py file is a conversion of the the previous .ipynb, a more polished .py file is to be added later)
 ```
 python sentencetransformer_multitask.py 
 ```
